@@ -8,6 +8,7 @@ This is a simple program to extrac unique unicode charaters from a file to stand
 
 ##Sample Run
 ./unichars poem0.txt
+
 file size: 88
 
 *************************
@@ -16,6 +17,7 @@ file size: 88
 
 
 ./unichars poem.txt
+
 Number of unichars: 27
 file size: 100
 
