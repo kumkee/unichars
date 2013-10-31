@@ -16,6 +16,7 @@ file size: 88
 Number of unichars: 27
 
 ./unichars poem.txt
+
 file size: 100
 *************************
 獨在異鄉為客，每逢佳節倍思親。遙知兄弟登高處遍插茱萸少一人
